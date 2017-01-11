@@ -5,6 +5,7 @@
   <style>
     p {color:red;}
     main {color:blue;}
+  </style>
 </head>
 
 <body>
