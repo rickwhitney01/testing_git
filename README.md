@@ -2,9 +2,15 @@
 <html>
 <title> This is a GIT test</title>
 <head>
+  <meta charset="utf-8"/>
   <style>
-    p {color:red;}
-    main {color:blue;}
+    p {
+      color:red;
+      }
+    
+    main {
+      color:blue;
+      }
   </style>
 </head>
 
