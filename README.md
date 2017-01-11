@@ -17,3 +17,7 @@ It was sold and distributed widely and read aloud at taverns and meeting places.
 Common Sense made public a persuasive and impassioned case for independence, which before the pamphlet had not yet been given serious intellectual consideration. He connected independence with common dissenting Protestant beliefs as a means to present a distinctly American political identity, structuring Common Sense as if it were a sermon. Historian Gordon S. Wood described Common Sense as "the most incendiary and popular pamphlet of the entire revolutionary era".
 
 The text was translated into French by Antoine Gilbert Griffet de Labaume in 1790.
+
+</body>
+</html>
+
