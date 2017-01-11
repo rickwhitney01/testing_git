@@ -1,4 +1,13 @@
 # testing_git
+<html>
+<title> This is a GIT test</title>
+<head>
+  <style>
+    p {color:red;}
+    main {color:blue;}
+</head>
+
+<body>
 <main>
 <em class="title">Common Sense</em> is a pamphlet written by Thomas Paine in 1775–76 advocating independence from Great Britain to people in the Thirteen Colonies. Written in clear and persuasive prose, Paine marshaled moral and political arguments to encourage common people in the Colonies to fight for egalitarian government. It was published anonymously on January 10, 1776, at the beginning of the American Revolution, and became an immediate sensation.
 </main>
